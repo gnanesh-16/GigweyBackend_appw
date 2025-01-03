@@ -1,0 +1,4502 @@
+{
+  "mouse_events": [
+    {
+      "type": "move",
+      "pos": [
+        719,
+        720
+      ],
+      "relative_time": 0.6196508407592773,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        751,
+        718
+      ],
+      "relative_time": 0.6264564990997314,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        790,
+        718
+      ],
+      "relative_time": 0.6351053714752197,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        823,
+        718
+      ],
+      "relative_time": 0.641697883605957,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        849,
+        718
+      ],
+      "relative_time": 0.6504085063934326,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        874,
+        718
+      ],
+      "relative_time": 0.6574063301086426,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        895,
+        716
+      ],
+      "relative_time": 0.6652247905731201,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        912,
+        716
+      ],
+      "relative_time": 0.6729631423950195,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        921,
+        718
+      ],
+      "relative_time": 0.6809799671173096,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        927,
+        719
+      ],
+      "relative_time": 0.6886029243469238,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        931,
+        722
+      ],
+      "relative_time": 0.696012020111084,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        933,
+        723
+      ],
+      "relative_time": 0.7033596038818359,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        934,
+        726
+      ],
+      "relative_time": 0.7106795310974121,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        936,
+        728
+      ],
+      "relative_time": 0.7194623947143555,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        937,
+        730
+      ],
+      "relative_time": 0.7275478839874268,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        938,
+        733
+      ],
+      "relative_time": 0.7345418930053711,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        938,
+        737
+      ],
+      "relative_time": 0.7427816390991211,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        938,
+        742
+      ],
+      "relative_time": 0.7505006790161133,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        938,
+        747
+      ],
+      "relative_time": 0.7580485343933105,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        936,
+        754
+      ],
+      "relative_time": 0.7654337882995605,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        933,
+        762
+      ],
+      "relative_time": 0.7723853588104248,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        928,
+        771
+      ],
+      "relative_time": 0.7806339263916016,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        921,
+        781
+      ],
+      "relative_time": 0.7891664505004883,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        910,
+        792
+      ],
+      "relative_time": 0.7960572242736816,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        890,
+        804
+      ],
+      "relative_time": 0.8040845394134521,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        862,
+        814
+      ],
+      "relative_time": 0.8110077381134033,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        825,
+        822
+      ],
+      "relative_time": 0.8259592056274414,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        787,
+        822
+      ],
+      "relative_time": 0.8332774639129639,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        733,
+        817
+      ],
+      "relative_time": 0.839848518371582,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        702,
+        813
+      ],
+      "relative_time": 0.8471872806549072,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        677,
+        804
+      ],
+      "relative_time": 0.8539972305297852,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        657,
+        795
+      ],
+      "relative_time": 0.8611700534820557,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        632,
+        782
+      ],
+      "relative_time": 0.8683242797851562,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        612,
+        770
+      ],
+      "relative_time": 0.8746199607849121,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        589,
+        753
+      ],
+      "relative_time": 0.8823778629302979,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        568,
+        737
+      ],
+      "relative_time": 0.8894853591918945,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        551,
+        719
+      ],
+      "relative_time": 0.8970043659210205,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        536,
+        696
+      ],
+      "relative_time": 0.9049243927001953,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        520,
+        669
+      ],
+      "relative_time": 0.9109892845153809,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        506,
+        625
+      ],
+      "relative_time": 0.9180896282196045,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        496,
+        583
+      ],
+      "relative_time": 0.9242062568664551,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        490,
+        524
+      ],
+      "relative_time": 0.9320580959320068,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        492,
+        466
+      ],
+      "relative_time": 0.9385435581207275,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        500,
+        425
+      ],
+      "relative_time": 0.9458088874816895,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        524,
+        366
+      ],
+      "relative_time": 0.9538631439208984,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        567,
+        304
+      ],
+      "relative_time": 0.9604671001434326,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        595,
+        273
+      ],
+      "relative_time": 0.9676914215087891,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        636,
+        235
+      ],
+      "relative_time": 0.9748203754425049,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        703,
+        185
+      ],
+      "relative_time": 0.9814505577087402,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        746,
+        156
+      ],
+      "relative_time": 0.9884438514709473,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        798,
+        123
+      ],
+      "relative_time": 0.9950580596923828,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        829,
+        108
+      ],
+      "relative_time": 1.002955675125122,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        870,
+        86
+      ],
+      "relative_time": 1.0096309185028076,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        892,
+        76
+      ],
+      "relative_time": 1.0175609588623047,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        911,
+        67
+      ],
+      "relative_time": 1.024390459060669,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        920,
+        62
+      ],
+      "relative_time": 1.0310285091400146,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        926,
+        57
+      ],
+      "relative_time": 1.0389561653137207,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        928,
+        56
+      ],
+      "relative_time": 1.0448575019836426,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        929,
+        54
+      ],
+      "relative_time": 1.0527517795562744,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        930,
+        54
+      ],
+      "relative_time": 1.0589795112609863,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        930,
+        53
+      ],
+      "relative_time": 1.0669806003570557,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        930,
+        53
+      ],
+      "relative_time": 1.1308372020721436,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        930,
+        52
+      ],
+      "relative_time": 1.1379156112670898,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        929,
+        51
+      ],
+      "relative_time": 1.144991397857666,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        927,
+        49
+      ],
+      "relative_time": 1.166128396987915,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        922,
+        48
+      ],
+      "relative_time": 1.1732277870178223,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        907,
+        46
+      ],
+      "relative_time": 1.1807000637054443,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        864,
+        42
+      ],
+      "relative_time": 1.187316656112671,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        754,
+        48
+      ],
+      "relative_time": 1.1949245929718018,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        698,
+        59
+      ],
+      "relative_time": 1.2007975578308105,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        627,
+        82
+      ],
+      "relative_time": 1.208477258682251,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        539,
+        121
+      ],
+      "relative_time": 1.215686321258545,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        480,
+        149
+      ],
+      "relative_time": 1.2227940559387207,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        441,
+        176
+      ],
+      "relative_time": 1.2295382022857666,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        394,
+        209
+      ],
+      "relative_time": 1.2370200157165527,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        364,
+        231
+      ],
+      "relative_time": 1.244417428970337,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        351,
+        244
+      ],
+      "relative_time": 1.251248836517334,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        340,
+        255
+      ],
+      "relative_time": 1.25864839553833,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        333,
+        264
+      ],
+      "relative_time": 1.2650339603424072,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        328,
+        272
+      ],
+      "relative_time": 1.2727863788604736,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        325,
+        280
+      ],
+      "relative_time": 1.2789685726165771,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        325,
+        289
+      ],
+      "relative_time": 1.2867765426635742,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        321,
+        313
+      ],
+      "relative_time": 1.2940678596496582,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        315,
+        343
+      ],
+      "relative_time": 1.3005294799804688,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        315,
+        366
+      ],
+      "relative_time": 1.309239387512207,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        317,
+        381
+      ],
+      "relative_time": 1.3153681755065918,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        321,
+        391
+      ],
+      "relative_time": 1.3226454257965088,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        334,
+        408
+      ],
+      "relative_time": 1.3298091888427734,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        352,
+        422
+      ],
+      "relative_time": 1.3364768028259277,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        384,
+        438
+      ],
+      "relative_time": 1.3434739112854004,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        440,
+        450
+      ],
+      "relative_time": 1.3506181240081787,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        480,
+        452
+      ],
+      "relative_time": 1.3567655086517334,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        547,
+        455
+      ],
+      "relative_time": 1.3645422458648682,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        590,
+        455
+      ],
+      "relative_time": 1.370736837387085,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        671,
+        453
+      ],
+      "relative_time": 1.3780438899993896,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        739,
+        447
+      ],
+      "relative_time": 1.3853938579559326,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        825,
+        444
+      ],
+      "relative_time": 1.3926138877868652,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        911,
+        440
+      ],
+      "relative_time": 1.3998382091522217,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        950,
+        440
+      ],
+      "relative_time": 1.4074411392211914,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1008,
+        445
+      ],
+      "relative_time": 1.4139461517333984,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1036,
+        452
+      ],
+      "relative_time": 1.4217326641082764,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1060,
+        458
+      ],
+      "relative_time": 1.428675651550293,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1077,
+        467
+      ],
+      "relative_time": 1.4356238842010498,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1088,
+        478
+      ],
+      "relative_time": 1.4422104358673096,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1091,
+        486
+      ],
+      "relative_time": 1.4497158527374268,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1091,
+        495
+      ],
+      "relative_time": 1.4567160606384277,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1089,
+        510
+      ],
+      "relative_time": 1.463268518447876,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1079,
+        525
+      ],
+      "relative_time": 1.470689296722412,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1070,
+        540
+      ],
+      "relative_time": 1.4785847663879395,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1045,
+        565
+      ],
+      "relative_time": 1.4857738018035889,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1004,
+        606
+      ],
+      "relative_time": 1.4919521808624268,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        973,
+        634
+      ],
+      "relative_time": 1.4993541240692139,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        920,
+        675
+      ],
+      "relative_time": 1.507953405380249,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        877,
+        704
+      ],
+      "relative_time": 1.5138096809387207,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        817,
+        735
+      ],
+      "relative_time": 1.5200011730194092,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        764,
+        753
+      ],
+      "relative_time": 1.527907133102417,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        703,
+        768
+      ],
+      "relative_time": 1.5339927673339844,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        667,
+        773
+      ],
+      "relative_time": 1.5417559146881104,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        644,
+        773
+      ],
+      "relative_time": 1.5490021705627441,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        620,
+        770
+      ],
+      "relative_time": 1.5568163394927979,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        585,
+        758
+      ],
+      "relative_time": 1.563934326171875,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        541,
+        742
+      ],
+      "relative_time": 1.5706923007965088,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        524,
+        728
+      ],
+      "relative_time": 1.5778214931488037,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        500,
+        698
+      ],
+      "relative_time": 1.5845997333526611,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        488,
+        663
+      ],
+      "relative_time": 1.5914208889007568,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        483,
+        618
+      ],
+      "relative_time": 1.5988852977752686,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        495,
+        544
+      ],
+      "relative_time": 1.6051502227783203,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        516,
+        486
+      ],
+      "relative_time": 1.612684726715088,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        555,
+        420
+      ],
+      "relative_time": 1.6198325157165527,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        610,
+        353
+      ],
+      "relative_time": 1.6273183822631836,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        683,
+        286
+      ],
+      "relative_time": 1.633847951889038,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        740,
+        248
+      ],
+      "relative_time": 1.641838788986206,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        823,
+        211
+      ],
+      "relative_time": 1.6486282348632812,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        916,
+        190
+      ],
+      "relative_time": 1.655189037322998,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        974,
+        192
+      ],
+      "relative_time": 1.6619172096252441,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1048,
+        201
+      ],
+      "relative_time": 1.6698801517486572,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1082,
+        214
+      ],
+      "relative_time": 1.6768674850463867,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1108,
+        234
+      ],
+      "relative_time": 1.6841084957122803,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1117,
+        247
+      ],
+      "relative_time": 1.6902382373809814,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1128,
+        279
+      ],
+      "relative_time": 1.6979765892028809,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1130,
+        304
+      ],
+      "relative_time": 1.7050108909606934,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1127,
+        330
+      ],
+      "relative_time": 1.7127680778503418,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1123,
+        352
+      ],
+      "relative_time": 1.7196531295776367,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1111,
+        396
+      ],
+      "relative_time": 1.727163314819336,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1091,
+        441
+      ],
+      "relative_time": 1.733893632888794,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1059,
+        501
+      ],
+      "relative_time": 1.7408959865570068,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1037,
+        543
+      ],
+      "relative_time": 1.7478868961334229,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        991,
+        605
+      ],
+      "relative_time": 1.7550482749938965,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        962,
+        640
+      ],
+      "relative_time": 1.7619729042053223,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        916,
+        686
+      ],
+      "relative_time": 1.769618034362793,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        868,
+        719
+      ],
+      "relative_time": 1.7756242752075195,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        825,
+        748
+      ],
+      "relative_time": 1.7834410667419434,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        808,
+        755
+      ],
+      "relative_time": 1.790623426437378,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        793,
+        761
+      ],
+      "relative_time": 1.7976808547973633,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        775,
+        761
+      ],
+      "relative_time": 1.8053886890411377,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        761,
+        762
+      ],
+      "relative_time": 1.8123035430908203,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        749,
+        762
+      ],
+      "relative_time": 1.8187518119812012,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        728,
+        746
+      ],
+      "relative_time": 1.8255953788757324,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        719,
+        733
+      ],
+      "relative_time": 1.8328983783721924,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        713,
+        716
+      ],
+      "relative_time": 1.8396720886230469,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        717,
+        669
+      ],
+      "relative_time": 1.8469805717468262,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        751,
+        591
+      ],
+      "relative_time": 1.8539211750030518,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        803,
+        515
+      ],
+      "relative_time": 1.861318588256836,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        848,
+        473
+      ],
+      "relative_time": 1.8686683177947998,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        911,
+        427
+      ],
+      "relative_time": 1.8758645057678223,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1036,
+        370
+      ],
+      "relative_time": 1.8831114768981934,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1111,
+        351
+      ],
+      "relative_time": 1.8903794288635254,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1200,
+        334
+      ],
+      "relative_time": 1.8962852954864502,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1253,
+        335
+      ],
+      "relative_time": 1.9030866622924805,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1302,
+        338
+      ],
+      "relative_time": 1.91119384765625,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1341,
+        354
+      ],
+      "relative_time": 1.918215036392212,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1353,
+        367
+      ],
+      "relative_time": 1.9253108501434326,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1360,
+        378
+      ],
+      "relative_time": 1.931990385055542,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1365,
+        392
+      ],
+      "relative_time": 1.938669204711914,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1367,
+        409
+      ],
+      "relative_time": 1.9466888904571533,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1367,
+        423
+      ],
+      "relative_time": 1.953706979751587,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1367,
+        435
+      ],
+      "relative_time": 1.9610097408294678,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1360,
+        452
+      ],
+      "relative_time": 1.9680752754211426,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1353,
+        469
+      ],
+      "relative_time": 1.9748034477233887,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1341,
+        488
+      ],
+      "relative_time": 1.9810237884521484,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1318,
+        516
+      ],
+      "relative_time": 1.9884772300720215,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1301,
+        531
+      ],
+      "relative_time": 1.9952585697174072,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1283,
+        545
+      ],
+      "relative_time": 2.00262451171875,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1275,
+        548
+      ],
+      "relative_time": 2.0096216201782227,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1265,
+        550
+      ],
+      "relative_time": 2.0172152519226074,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1262,
+        550
+      ],
+      "relative_time": 2.024317979812622,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1259,
+        550
+      ],
+      "relative_time": 2.0320611000061035,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1258,
+        550
+      ],
+      "relative_time": 2.0390546321868896,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1257,
+        549
+      ],
+      "relative_time": 2.0457847118377686,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1258,
+        546
+      ],
+      "relative_time": 2.053109884262085,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1268,
+        531
+      ],
+      "relative_time": 2.059128522872925,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1318,
+        505
+      ],
+      "relative_time": 2.067054033279419,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1446,
+        460
+      ],
+      "relative_time": 2.0742294788360596,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1519,
+        453
+      ],
+      "relative_time": 2.0814788341522217,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1607,
+        469
+      ],
+      "relative_time": 2.0885016918182373,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1677,
+        509
+      ],
+      "relative_time": 2.0944337844848633,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1740,
+        555
+      ],
+      "relative_time": 2.1024715900421143,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1757,
+        573
+      ],
+      "relative_time": 2.109851121902466,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1771,
+        586
+      ],
+      "relative_time": 2.1170575618743896,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1778,
+        603
+      ],
+      "relative_time": 2.124021053314209,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1778,
+        617
+      ],
+      "relative_time": 2.131058931350708,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1778,
+        625
+      ],
+      "relative_time": 2.137059450149536,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1771,
+        635
+      ],
+      "relative_time": 2.1450600624084473,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1760,
+        644
+      ],
+      "relative_time": 2.152055263519287,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1745,
+        654
+      ],
+      "relative_time": 2.1584599018096924,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1732,
+        661
+      ],
+      "relative_time": 2.1664507389068604,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1713,
+        669
+      ],
+      "relative_time": 2.172640800476074,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1694,
+        674
+      ],
+      "relative_time": 2.1797685623168945,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1677,
+        676
+      ],
+      "relative_time": 2.187276601791382,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1659,
+        676
+      ],
+      "relative_time": 2.195038318634033,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1626,
+        675
+      ],
+      "relative_time": 2.2022082805633545,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1607,
+        669
+      ],
+      "relative_time": 2.2089457511901855,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1586,
+        664
+      ],
+      "relative_time": 2.216181755065918,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1562,
+        647
+      ],
+      "relative_time": 2.222843647003174,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1552,
+        636
+      ],
+      "relative_time": 2.229858875274658,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1544,
+        619
+      ],
+      "relative_time": 2.237123727798462,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1545,
+        593
+      ],
+      "relative_time": 2.2433505058288574,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1558,
+        568
+      ],
+      "relative_time": 2.2512664794921875,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1594,
+        531
+      ],
+      "relative_time": 2.2577855587005615,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1660,
+        488
+      ],
+      "relative_time": 2.2656238079071045,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1719,
+        463
+      ],
+      "relative_time": 2.2730929851531982,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1757,
+        453
+      ],
+      "relative_time": 2.2799906730651855,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1801,
+        451
+      ],
+      "relative_time": 2.287571668624878,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1839,
+        460
+      ],
+      "relative_time": 2.2944979667663574,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1852,
+        467
+      ],
+      "relative_time": 2.301180839538574,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1858,
+        472
+      ],
+      "relative_time": 2.308229684829712,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1860,
+        476
+      ],
+      "relative_time": 2.3146190643310547,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1861,
+        477
+      ],
+      "relative_time": 2.322268486022949,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1861,
+        478
+      ],
+      "relative_time": 2.3291220664978027,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1861,
+        478
+      ],
+      "relative_time": 2.3355207443237305,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1859,
+        479
+      ],
+      "relative_time": 2.344062328338623,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1853,
+        483
+      ],
+      "relative_time": 2.3512322902679443,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1829,
+        491
+      ],
+      "relative_time": 2.358356237411499,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1786,
+        505
+      ],
+      "relative_time": 2.3646249771118164,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1725,
+        520
+      ],
+      "relative_time": 2.3728692531585693,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1647,
+        530
+      ],
+      "relative_time": 2.3793177604675293,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1613,
+        530
+      ],
+      "relative_time": 2.386427164077759,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1558,
+        522
+      ],
+      "relative_time": 2.3932905197143555,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1523,
+        510
+      ],
+      "relative_time": 2.400761365890503,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1468,
+        479
+      ],
+      "relative_time": 2.407888889312744,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1437,
+        453
+      ],
+      "relative_time": 2.414789915084839,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1394,
+        404
+      ],
+      "relative_time": 2.4219374656677246,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1357,
+        351
+      ],
+      "relative_time": 2.4291787147521973,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1323,
+        299
+      ],
+      "relative_time": 2.4364492893218994,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1310,
+        272
+      ],
+      "relative_time": 2.443451404571533,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1295,
+        241
+      ],
+      "relative_time": 2.450702667236328,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1283,
+        219
+      ],
+      "relative_time": 2.4569036960601807,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1276,
+        204
+      ],
+      "relative_time": 2.463763475418091,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1255,
+        185
+      ],
+      "relative_time": 2.471628189086914,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1237,
+        171
+      ],
+      "relative_time": 2.47855544090271,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1203,
+        160
+      ],
+      "relative_time": 2.4856927394866943,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1139,
+        151
+      ],
+      "relative_time": 2.4919087886810303,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1053,
+        147
+      ],
+      "relative_time": 2.499898672103882,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        988,
+        156
+      ],
+      "relative_time": 2.5071804523468018,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        916,
+        162
+      ],
+      "relative_time": 2.5142505168914795,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        790,
+        184
+      ],
+      "relative_time": 2.521803855895996,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        663,
+        214
+      ],
+      "relative_time": 2.52860689163208,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        583,
+        234
+      ],
+      "relative_time": 2.535221815109253,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        498,
+        258
+      ],
+      "relative_time": 2.5424537658691406,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        412,
+        285
+      ],
+      "relative_time": 2.5496139526367188,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        330,
+        316
+      ],
+      "relative_time": 2.5562238693237305,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        295,
+        331
+      ],
+      "relative_time": 2.563464403152466,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        265,
+        343
+      ],
+      "relative_time": 2.570894479751587,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        243,
+        352
+      ],
+      "relative_time": 2.5775930881500244,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        228,
+        360
+      ],
+      "relative_time": 2.5855157375335693,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        218,
+        363
+      ],
+      "relative_time": 2.59256649017334,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        217,
+        364
+      ],
+      "relative_time": 2.5997841358184814,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        217,
+        365
+      ],
+      "relative_time": 2.606255292892456,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        217,
+        366
+      ],
+      "relative_time": 2.621006727218628,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        219,
+        368
+      ],
+      "relative_time": 2.634104013442993,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        223,
+        372
+      ],
+      "relative_time": 2.64178204536438,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        232,
+        379
+      ],
+      "relative_time": 2.6494507789611816,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        245,
+        390
+      ],
+      "relative_time": 2.656224250793457,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        309,
+        424
+      ],
+      "relative_time": 2.6635138988494873,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        353,
+        440
+      ],
+      "relative_time": 2.6708614826202393,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        414,
+        456
+      ],
+      "relative_time": 2.6773478984832764,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        512,
+        477
+      ],
+      "relative_time": 2.6832356452941895,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        572,
+        486
+      ],
+      "relative_time": 2.691643476486206,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        648,
+        486
+      ],
+      "relative_time": 2.6985223293304443,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        705,
+        486
+      ],
+      "relative_time": 2.7052762508392334,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        802,
+        476
+      ],
+      "relative_time": 2.7127320766448975,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        852,
+        468
+      ],
+      "relative_time": 2.7190372943878174,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        932,
+        448
+      ],
+      "relative_time": 2.7268264293670654,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        974,
+        437
+      ],
+      "relative_time": 2.7340593338012695,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        994,
+        429
+      ],
+      "relative_time": 2.740884780883789,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1002,
+        426
+      ],
+      "relative_time": 2.7475056648254395,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1003,
+        425
+      ],
+      "relative_time": 2.755918025970459,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1003,
+        423
+      ],
+      "relative_time": 2.7626311779022217,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1003,
+        422
+      ],
+      "relative_time": 2.7754480838775635,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1001,
+        421
+      ],
+      "relative_time": 2.783464193344116,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        996,
+        420
+      ],
+      "relative_time": 2.7902021408081055,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        982,
+        416
+      ],
+      "relative_time": 2.7977423667907715,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        935,
+        414
+      ],
+      "relative_time": 2.8048579692840576,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        882,
+        416
+      ],
+      "relative_time": 2.8118536472320557,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        812,
+        428
+      ],
+      "relative_time": 2.8192107677459717,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        756,
+        443
+      ],
+      "relative_time": 2.826355218887329,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        684,
+        469
+      ],
+      "relative_time": 2.8335564136505127,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        615,
+        499
+      ],
+      "relative_time": 2.840886354446411,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        582,
+        522
+      ],
+      "relative_time": 2.8478341102600098,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        543,
+        550
+      ],
+      "relative_time": 2.8540408611297607,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        528,
+        561
+      ],
+      "relative_time": 2.861811876296997,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        519,
+        568
+      ],
+      "relative_time": 2.8687257766723633,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        518,
+        570
+      ],
+      "relative_time": 2.875769853591919,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        518,
+        571
+      ],
+      "relative_time": 2.882828712463379,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        518,
+        574
+      ],
+      "relative_time": 2.889997959136963,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        518,
+        575
+      ],
+      "relative_time": 2.8974766731262207,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        520,
+        578
+      ],
+      "relative_time": 2.903992176055908,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        525,
+        585
+      ],
+      "relative_time": 2.9122185707092285,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        540,
+        599
+      ],
+      "relative_time": 2.918846845626831,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        564,
+        615
+      ],
+      "relative_time": 2.9255006313323975,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        636,
+        642
+      ],
+      "relative_time": 2.9326834678649902,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        695,
+        648
+      ],
+      "relative_time": 2.939882516860962,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        771,
+        645
+      ],
+      "relative_time": 2.94671893119812,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        876,
+        642
+      ],
+      "relative_time": 2.9535903930664062,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        939,
+        636
+      ],
+      "relative_time": 2.9617979526519775,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1002,
+        633
+      ],
+      "relative_time": 2.9679787158966064,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1054,
+        633
+      ],
+      "relative_time": 2.9755172729492188,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1076,
+        638
+      ],
+      "relative_time": 2.981529474258423,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1091,
+        647
+      ],
+      "relative_time": 2.990490674972534,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1094,
+        653
+      ],
+      "relative_time": 2.997034788131714,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1095,
+        657
+      ],
+      "relative_time": 3.004096746444702,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1096,
+        659
+      ],
+      "relative_time": 3.010676383972168,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1096,
+        661
+      ],
+      "relative_time": 3.0173873901367188,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1096,
+        664
+      ],
+      "relative_time": 3.0243473052978516,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1096,
+        666
+      ],
+      "relative_time": 3.0316109657287598,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1094,
+        669
+      ],
+      "relative_time": 3.0392954349517822,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1089,
+        674
+      ],
+      "relative_time": 3.045754909515381,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1066,
+        705
+      ],
+      "relative_time": 3.0522689819335938,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        993,
+        792
+      ],
+      "relative_time": 3.059561252593994,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        957,
+        840
+      ],
+      "relative_time": 3.0677051544189453,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        906,
+        911
+      ],
+      "relative_time": 3.0742404460906982,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        885,
+        937
+      ],
+      "relative_time": 3.081995964050293,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        872,
+        950
+      ],
+      "relative_time": 3.088979482650757,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        870,
+        951
+      ],
+      "relative_time": 3.0963191986083984,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        866,
+        951
+      ],
+      "relative_time": 3.1026711463928223,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        887,
+        960
+      ],
+      "relative_time": 3.282290458679199,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        918,
+        975
+      ],
+      "relative_time": 3.289858341217041,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        946,
+        981
+      ],
+      "relative_time": 3.2966415882110596,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        969,
+        985
+      ],
+      "relative_time": 3.303454875946045,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        988,
+        985
+      ],
+      "relative_time": 3.310253620147705,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1004,
+        985
+      ],
+      "relative_time": 3.31742787361145,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1011,
+        985
+      ],
+      "relative_time": 3.3244526386260986,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1021,
+        984
+      ],
+      "relative_time": 3.3318586349487305,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1028,
+        984
+      ],
+      "relative_time": 3.338744878768921,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1032,
+        984
+      ],
+      "relative_time": 3.3460476398468018,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1034,
+        985
+      ],
+      "relative_time": 3.353644847869873,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1037,
+        985
+      ],
+      "relative_time": 3.3604583740234375,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1039,
+        985
+      ],
+      "relative_time": 3.367399215698242,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1041,
+        986
+      ],
+      "relative_time": 3.373887062072754,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1044,
+        986
+      ],
+      "relative_time": 3.381471633911133,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1046,
+        988
+      ],
+      "relative_time": 3.3879759311676025,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1047,
+        988
+      ],
+      "relative_time": 3.3950791358947754,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1048,
+        989
+      ],
+      "relative_time": 3.402928352355957,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1050,
+        990
+      ],
+      "relative_time": 3.4098479747772217,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1051,
+        991
+      ],
+      "relative_time": 3.416965961456299,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1052,
+        992
+      ],
+      "relative_time": 3.4315903186798096,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1053,
+        993
+      ],
+      "relative_time": 3.438518762588501,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1054,
+        994
+      ],
+      "relative_time": 3.452075242996216,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1054,
+        995
+      ],
+      "relative_time": 3.466493844985962,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1055,
+        996
+      ],
+      "relative_time": 3.480762481689453,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1056,
+        996
+      ],
+      "relative_time": 3.4949305057525635,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1056,
+        997
+      ],
+      "relative_time": 3.5087459087371826,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1057,
+        998
+      ],
+      "relative_time": 3.5231668949127197,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1058,
+        998
+      ],
+      "relative_time": 3.5309040546417236,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1058,
+        999
+      ],
+      "relative_time": 3.5441811084747314,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1059,
+        999
+      ],
+      "relative_time": 3.551795244216919,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1059,
+        1000
+      ],
+      "relative_time": 3.5654399394989014,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1060,
+        1001
+      ],
+      "relative_time": 3.573669672012329,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1061,
+        1001
+      ],
+      "relative_time": 3.5872786045074463,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1061,
+        1002
+      ],
+      "relative_time": 3.601736068725586,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1061,
+        1003
+      ],
+      "relative_time": 3.6152877807617188,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "move",
+      "pos": [
+        1061,
+        1004
+      ],
+      "relative_time": 3.629838466644287,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "click",
+      "pos": [
+        1061,
+        1004
+      ],
+      "button": "Button.left",
+      "pressed": true,
+      "relative_time": 3.6372084617614746,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "type": "click",
+      "pos": [
+        1061,
+        1004
+      ],
+      "button": "Button.left",
+      "pressed": false,
+      "relative_time": 3.7294516563415527,
+      "screen_resolution": [
+        1920,
+        1080
+      ]
+    }
+  ],
+  "keyboard_events": [],
+  "metadata": {
+    "total_mouse_events": 374,
+    "total_keyboard_events": 0,
+    "total_recording_time": 3.7294516563415527
+  }
+}
